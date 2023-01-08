@@ -1,7 +1,5 @@
 # A JDBC application with an appropriately layered architecture
 
-This is an example of how an integration layer can be used to organize an application containing database calls.
-
 ## How to execute
 
 1. Clone this git repository
